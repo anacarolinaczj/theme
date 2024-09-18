@@ -1,7 +1,7 @@
 @-moz-document url("about:newtab"), url("about:home"), url(about:privatebrowsing) {
 
 	body{
-		background-image: url("wallpapers/tlou.jpg") !important;
+		background-image: url("nome da pasta + foto") !important;
 		background-size: cover !important;
 		background-repeat: no-repeat !important;
 		background-attachment: fixed !important;
