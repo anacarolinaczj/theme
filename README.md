@@ -1,2 +1,2 @@
-h2 Página
-h3 Aqui estarão os códigos de modificações por estética, entre navegadores, jogos, etc.
+<h1>Página de Modificações</h1>
+<h3>Voltado a modificações simples, como de navegadores, jogos, etc.</h3>
